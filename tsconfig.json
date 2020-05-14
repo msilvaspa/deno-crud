@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "module": "esnext",
+    "alwaysStrict": false,
+    "strict": false,
+    "noImplicitAny": true,
+    "resolveJsonModule": true,
+    "plugins": [
+      {
+        "name": "typescript-deno-plugin"
+      }
+    ],
+    "target": "esnext",
+  }
+}
